@@ -21,13 +21,13 @@ At the company I used to work for, we had a problem. A large amount of slow movi
 
 #### Makers Academy (April 2018 to July 2018)
 
-- Curious and passionate about code. [PROVIDE EVIDENCE]
-- Fast, independent learner [PROVIDE EVIDENCE]
-- Great collaborator [PROVIDE EVIDENCE]
+- Curious and passionate about code. 
+- Fast, independent learner
+- Great collaborator 
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
-- Ruby, Rails, JavaScript
+- Ruby, JavaScript, Java, Springboot, Node, Web Audio API, React.
 - RSpec, Jasmine
 
 #### Queen's University Belfast (September 2011 to May 2014)
