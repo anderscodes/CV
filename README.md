@@ -1,10 +1,10 @@
+[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [LinkedIn](https://www.linkedin.com/in/anders-persson-691632134/) | [Blog](https://medium.com/@anderscodes)
+
 ## Anders Persson
-[
-Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [LinkedIn](https://www.linkedin.com/in/anders-persson-691632134/) | [Blog](https://medium.com/@anderscodes)
 
 I am a maker who loves to create and build things from scratch. I have spent quite a lot of time pursuing creative projects such as making short films or music before getting a 'real' job where I introduced a very traditional company to the opportunities of online marketplaces and built a sucessful retail store for them on Amazon and eBay. I am looking for an opportunity to continue building and learning in a positive environment where I am encouraged to problem solve and create new things.
 
-## PROJECTS:
+## Projects:
 
 | Name                       | Description                                                                   | Technologies                     |  Testing                           |
 | -------------------------- |:-----------------------------------------------------------------------------:|:-------------------|-------------------|
