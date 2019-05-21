@@ -54,6 +54,10 @@ At the company I used to work for, we had a problem. There was a large amount of
 
 ## Experience
 
+**My Home Group Ltd.** (September 2018 to present) 
+*Software developer*
+Full stack developer working in PHP and Java script on a laravel/vue stack. 
+
 **Stentor Music Company. Ltd** (September 2014 to April 2018)    
 *Sales and Marketing Associate*
 Working in a busy sales and customer service environment, I also worked on a SAP business one implementation and built and run a successful retail store on both the Amazon and eBay marketplaces as well as leading on a project and working with developers to link sales data between the marketplaces and SAP.
