@@ -1,14 +1,14 @@
-[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [LinkedIn](https://www.linkedin.com/in/anders-persson-691632134/) | [Blog](https://medium.com/@anderscodes)
+[Makers Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [LinkedIn](https://www.linkedin.com/in/anders-persson-691632134/) | [Blog](https://medium.com/@anderscodes)
 
 ## Anders Persson
 
-I am a maker who loves to create and build things from scratch. I have spent quite a lot of time pursuing creative projects such as making short films or music before getting a 'real' job where I introduced a very traditional company to the opportunities of online marketplaces and built a sucessful retail store for them on Amazon and eBay. I am looking for an opportunity to continue building and learning in a positive environment where I am encouraged to problem solve and create new things.
+I am a maker who loves to create and build things. After spending far too many years in sales, I took the bold decision to re-invent myself as a developer and enrolled in a course at Makers. I thoroughly enjoyed my time there and since then I have been fortunate enough to contribute towards the growth of a start-up at My Home Group (MHG). As one of the first tech employees in a small team at MHG, my role has been more varied than just writing code. Liasing with and supporting the rest of the business has been as essential as working within the development team with tasks such as sprint planning, UX and priority setting. I am looking for an opportunity to work within a innovative and dynamic team where I am encouraged to problem solve and contribute to the growth of a business.
 
-## Projects:
+## Makers Projects:
 
 | Name                       | Description                                                                   | Technologies                     |  Testing                           |
 | -------------------------- |:-----------------------------------------------------------------------------:|:-------------------|-------------------|
-| [Melody Maker](https://github.com/MarkChanner/final-project)      | A sythnthesiser/ sequencer for people to learn and play around with creating music in different keys. Two week group project.               | JavaScript,  Web Audio API            | Jasmine, Cypress        |
+| [Melody Maker](https://github.com/MarkChanner/final-project)      | A synthesiser/ sequencer for people to learn and play around with creating music in different keys. Two week group project.               | JavaScript,  Web Audio API            | Jasmine, Cypress        |
 | [Bank Tech Test](https://github.com/anderscodes/bank_tech_test)       | An example tech test where I re-created a bank in object oriented form. Two day solo project.                                      | Ruby           | Rspec                    |
 | [PSTVE+](https://github.com/anderscodes/positive)            | A personal project which facilitates the sending and recieving of positive messages. On-going solo project. | Ruby, Sinatra         | Rspec       |   
 
@@ -32,7 +32,7 @@ I am a maker who loves to create and build things from scratch. I have spent qui
 - Film Studies, BA hons (2:1)
 - Practical course where I had the oppurtunity to make many films
 - Editing, sound design and cinematography skills and their associated technologies
-
+-
 #### Institute of Digital Marketing
 
 - Professional Diploma in Digital and Social Selling
@@ -42,11 +42,11 @@ I am a maker who loves to create and build things from scratch. I have spent qui
 
 #### Communication
 
-Several years working in sales has taught me the importance of effective communication. I have built postive working relationships with customers and continued to foster these relationships over a number of years. While working with developers on a project to integrate marketplace sales activity I have experienced first hand how issues can be avoided through efficient communication and the need to be explicitly clear about the needs of the project to make sure the other party has understood fully. I am particularly proud of the 100% feedback rating I recieved while running the eBay store.
+Part of the joys of working for a start-up is that you may sometimes get a feature request with very little (if anything at all) in the way of requirements. I have found that by trying to understand the actual problem the business is trying to solve and by carefully challenging the customers pre-concieved notions a better solution can often be found than the original proposal. I quite enjoy explaining technical concepts to people who are not tech literate, not only is it helpful to increase their knowledge of the technology but I also find it helps me to understand the concept more clearly. 
 
-#### Dedication
+#### Feedback
 
-With very little woodworking skills, I made the questionable decision to build an acoustic guitar. I completely under-estimated how difficult the project was and how long it would take but almost four years later the guitar is 90% finished. There were many times when I encountered a problem that made me feel like giving up but I continued to work through and have devoted countless hours to planning and working on the project. Quite simply, when I am given a task to do I will finish it no matter what and I will not be able to stop working on it until I have finished.
+One of the principles that was most re-inforced to us at Makers was the importance of feedback. As a developer, after building a feature getting feedback from the customer is an essential step in ensuring that the feature is fit for use. I particularly enjoy the reflective nature of retrospectives and the built-in opportunity for giving feedback and improving upon current processes. I consistently ask for as much feedback as possible and try to take it on board in order to be a better developer as well as giving feedback when appropriate.
 
 #### Big sky thinking
 
@@ -56,7 +56,7 @@ At the company I used to work for, we had a problem. There was a large amount of
 
 **My Home Group Ltd.** (September 2018 to present) 
 *Software developer*
-Full stack developer working in PHP and Java script on a laravel/vue stack. 
+Full stack developer working in PHP and Java script on a laravel/vue stack. Working as part of a small team, I have had the opportunity to learn and grow as a developer, taking on bigger pieces of work as I have grown in confidence and skill. 
 
 **Stentor Music Company. Ltd** (September 2014 to April 2018)    
 *Sales and Marketing Associate*
